@@ -1,0 +1,162 @@
+# Politique de confidentialité d'Aura
+
+**Date d'entrée en vigueur :** 10 juillet 2026
+**Dernière mise à jour :** 10 juillet 2026
+
+Aura Music (« nous », « notre » ou « nos ») a créé Aura en tant qu'application musicale gratuite. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez Aura.
+
+En utilisant Aura, vous acceptez les pratiques décrites dans cette politique de confidentialité. Si vous n'êtes pas d'accord, veuillez ne pas utiliser l'application.
+
+Aura ne nécessite pas de compte et ne demande pas votre nom, votre adresse e-mail ou toute autre information directement identifiante. La plupart de vos données — votre bibliothèque, historique d'écoute, favoris et téléchargements — restent sur votre appareil.
+
+---
+
+## 1. Informations que nous collectons
+
+### Informations que vous fournissez directement
+
+- **Requêtes de recherche :** lorsque vous recherchez de la musique, des stations de radio ou des paroles, votre requête est envoyée au service correspondant (voir section 4) pour renvoyer les résultats.
+
+### Informations collectées automatiquement
+
+- **Données d'utilisation :** lorsque les analyses sont activées, nous collectons des données d'utilisation anonymes telles que les écrans que vous ouvrez, les recherches que vous effectuez et les sources de lecture que vous utilisez. Ces données ne sont pas liées à votre identité.
+- **Informations sur l'appareil et diagnostics :** nous pouvons collecter le modèle de l'appareil, la version du système d'exploitation, la version de l'application et les journaux de plantage/diagnostic pour corriger les bugs et améliorer la stabilité.
+- **Analyses locales :** Aura conserve également un journal local, sur l'appareil, des événements de l'application. Ce journal ne quitte jamais votre appareil et n'est utilisé que pour alimenter des fonctionnalités internes à l'application.
+
+### Données de localisation
+
+- Aura collecte votre position **approximative pendant l'utilisation** uniquement si vous accordez l'autorisation, et l'utilise uniquement pour adapter le thème « Mood » à la météo locale. Votre position est envoyée au service WeatherKit d'Apple pour obtenir les conditions actuelles. Nous ne stockons pas votre position et ne la partageons avec personne d'autre qu'Apple pour cette recherche météo. L'application fonctionne normalement si vous refusez l'accès à la localisation.
+
+### Publicité
+
+- Aura peut afficher des publicités via Google AdMob. Pour diffuser des publicités, AdMob peut accéder à l'identifiant publicitaire de votre appareil et aux informations de l'appareil. Avant tout suivi publicitaire personnalisé, Aura affiche l'invite App Tracking Transparency d'Apple ; vous pouvez refuser le suivi et continuer à utiliser l'application.
+
+### Informations que nous NE collectons PAS
+
+- Nous n'exigeons pas la création d'un compte pour utiliser l'application.
+- Nous ne collectons pas votre nom, adresse e-mail, numéro de téléphone ou contacts.
+- Nous ne vendons pas vos informations personnelles.
+
+---
+
+## 2. Comment nous utilisons vos informations
+
+Nous utilisons les informations que nous collectons pour :
+
+- fournir et maintenir les fonctionnalités principales d'Aura (recherche, lecture, bibliothèque, radio, paroles et diffusion Drive facultative)
+- récupérer la météo locale pour alimenter le thème Mood
+- afficher et limiter la fréquence des publicités
+- comprendre les tendances d'utilisation globales afin d'améliorer l'application
+- diagnostiquer les plantages et corriger les bugs
+
+Nous n'utilisons PAS vos informations pour :
+
+- vendre vos données à des tiers
+- créer des profils publicitaires inter-applications sans votre consentement
+- prendre des décisions automatisées qui vous affectent de manière significative
+
+---
+
+## 3. Comment nous partageons vos informations
+
+Nous ne vendons, ne louons ni n'échangeons vos informations personnelles.
+
+Nous partageons des informations uniquement dans ces circonstances limitées :
+
+- **Prestataires de services :** nous utilisons les services tiers listés à la section 4 pour faire fonctionner Aura. Chacun ne reçoit que les données nécessaires à l'exécution de sa fonction.
+- **Exigences légales :** nous pouvons divulguer des informations si la loi, une réglementation, une procédure judiciaire ou une demande gouvernementale valide l'exige.
+- **Sécurité :** nous pouvons divulguer des informations pour protéger les droits, la propriété ou la sécurité de nos utilisateurs, du public ou de nous-mêmes.
+
+---
+
+## 4. Services tiers
+
+Aura s'appuie sur les services tiers suivants. Lorsque vous utilisez une fonctionnalité alimentée par l'un d'eux, les données nécessaires (comme une requête de recherche, une demande de publicité ou une recherche de localisation météo) sont envoyées à ce prestataire selon sa propre politique de confidentialité :
+
+| Service | Objectif | Politique de confidentialité |
+|---------|---------|----------------|
+| Google AdMob | Publicité | https://policies.google.com/privacy |
+| Google Firebase Analytics | Analyses d'utilisation et de plantages (si activé) | https://policies.google.com/privacy |
+| Google Sign-In / Google Drive API | Accès facultatif à votre propre contenu audio Drive | https://policies.google.com/privacy |
+| Services divers | Recherche et diffusion musicale | https://policies.google.com/privacy |
+| Apple WeatherKit | Météo locale pour le thème Mood | https://www.apple.com/legal/privacy/ |
+| Radio-Browser / stations de radio internet | Annuaire radio en direct et diffusion | https://www.radio-browser.info/ |
+
+Les flux radio et musicaux internet sont diffusés directement depuis des serveurs tiers ; ces prestataires peuvent enregistrer des informations de requête standard (comme l'adresse IP) dans le cadre de la diffusion du flux, conformément à leurs propres politiques.
+
+---
+
+## 5. Conservation des données
+
+- **Données sur l'appareil** (bibliothèque, historique, favoris, téléchargements, journal d'analyses local) : conservées sur votre appareil jusqu'à ce que vous les supprimiez dans l'application ou désinstalliez Aura.
+- **Données d'analyse et de plantage** partagées avec Firebase : conservées selon les paramètres de conservation des données de Firebase de Google, puis supprimées ou anonymisées.
+- **Données publicitaires :** gérées par Google AdMob selon les politiques de Google.
+
+La désinstallation d'Aura supprime toutes les données stockées localement sur votre appareil.
+
+---
+
+## 6. Sécurité des données
+
+Nous mettons en œuvre des mesures techniques raisonnables pour protéger vos informations, notamment :
+
+- le chiffrement en transit (TLS/HTTPS) pour le trafic des services de l'application
+- le stockage sur l'appareil de votre bibliothèque et de vos préférences
+- la demande uniquement des autorisations et accès tiers nécessaires à l'application
+
+Remarque : certains flux radio internet ne sont disponibles qu'en HTTP simple ; ces flux médias spécifiques ne sont pas chiffrés en transit car les stations n'offrent pas HTTPS. Tout le trafic des services et API de l'application utilise HTTPS.
+
+Aucune méthode de transmission ou de stockage n'est sûre à 100 %, mais nous prenons des mesures raisonnables sur le plan commercial pour protéger vos données.
+
+---
+
+## 7. Vos droits
+
+Comme Aura ne maintient pas de comptes utilisateurs, la plupart de vos données sont sous votre contrôle direct sur votre appareil — vous pouvez supprimer votre historique, favoris, téléchargements, flux en cache et le journal d'analyses local depuis l'application à tout moment, et déconnecter Google Drive à tout moment.
+
+Pour poser des questions ou faire une demande relative à la confidentialité, contactez-nous à kocakmstf@gmail.com. Nous répondrons dans un délai de 30 jours.
+
+### Pour les résidents de l'Union européenne (RGPD)
+
+Si vous résidez dans l'Espace économique européen, vous disposez de droits en vertu du RGPD :
+
+- **Responsable du traitement des données :** Aura Music, bilgisiz1mail@gmail.com
+- **Base légale du traitement :**
+  - Votre consentement (analyses, localisation, suivi publicitaire personnalisé — que vous pouvez refuser ou retirer à tout moment)
+  - Exécution d'un contrat (fourniture des fonctionnalités que vous demandez)
+  - Intérêts légitimes (stabilité, sécurité et amélioration de l'application)
+- **Vos droits :** accès, rectification, effacement, limitation du traitement, opposition au traitement et portabilité des données.
+- **Réclamations :** vous pouvez déposer une plainte auprès de votre autorité locale de protection des données.
+- **Transferts internationaux :** les prestataires tiers (par ex. Google, Apple) peuvent traiter des données en dehors de l'EEE sous des garanties appropriées telles que les clauses contractuelles types.
+
+### Pour les résidents de Californie (CCPA)
+
+Si vous résidez en Californie, vous disposez de droits en vertu du CCPA :
+
+- **Droit de savoir :** demander les catégories et les éléments spécifiques d'informations personnelles collectées à votre sujet.
+- **Droit à l'effacement :** demander la suppression de vos informations personnelles.
+- **Droit de refus :** nous ne vendons pas vos informations personnelles. Vous pouvez refuser le suivi publicitaire via l'invite App Tracking Transparency.
+- **Non-discrimination :** nous ne vous discriminerons pas pour avoir exercé vos droits.
+
+Pour exercer ces droits, contactez-nous à bilgisiz1mail@gmail.com.
+
+---
+
+## 8. Confidentialité des enfants
+
+Aura n'est pas destiné aux enfants de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnelles auprès d'enfants de moins de 13 ans. Si vous pensez qu'un enfant nous a fourni des informations personnelles, contactez-nous à bilgisiz1mail@gmail.com et nous les supprimerons rapidement.
+
+---
+
+## 9. Modifications de cette politique de confidentialité
+
+Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. Lorsque nous apportons des modifications importantes, nous mettrons à jour la date de « Dernière mise à jour » ci-dessus et publierons la politique mise à jour. Votre utilisation continue d'Aura après la publication des modifications constitue une acceptation de la politique mise à jour.
+
+---
+
+## 10. Nous contacter
+
+Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité ou nos pratiques en matière de données, contactez-nous à :
+
+- **E-mail :** bilgisiz1mail@gmail.com
+- **Développeur :** Aura Music
