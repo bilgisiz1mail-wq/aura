@@ -1,0 +1,162 @@
+# Aura Gizlilik Politikası
+
+**Yürürlük Tarihi:** 10 Temmuz 2026
+**Son Güncelleme:** 10 Temmuz 2026
+
+Aura Music ("biz" veya "bizim"), Aura'yı ücretsiz bir müzik uygulaması olarak geliştirmiştir. Bu Gizlilik Politikası, Aura'yı kullanırken bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar.
+
+Aura'yı kullanarak bu Gizlilik Politikasında açıklanan uygulamaları kabul etmiş olursunuz. Kabul etmiyorsanız, lütfen uygulamayı kullanmayın.
+
+Aura hesap gerektirmez ve adınızı, e-posta adresinizi veya doğrudan kimliğinizi belirleyen başka bilgileri istemez. Verilerinizin çoğu — kitaplığınız, dinleme geçmişiniz, favorileriniz ve indirdikleriniz — cihazınızda kalır.
+
+---
+
+## 1. Topladığımız Bilgiler
+
+### Doğrudan Sağladığınız Bilgiler
+
+- **Arama sorguları:** Müzik, radyo istasyonu veya şarkı sözü aradığınızda, sorgunuz sonuçları döndürmek için ilgili hizmete (bkz. Bölüm 4) gönderilir.
+
+### Otomatik Olarak Toplanan Bilgiler
+
+- **Kullanım verileri:** Analitik etkinleştirildiğinde, hangi ekranları açtığınız, hangi aramaları yaptığınız ve hangi çalma kaynaklarını kullandığınız gibi anonim kullanım verileri toplarız. Bu veriler kimliğinizle ilişkilendirilmez.
+- **Cihaz ve tanılama bilgileri:** Hataları düzeltmek ve kararlılığı artırmak için cihaz modeli, işletim sistemi sürümü, uygulama sürümü ve çökme/tanılama günlükleri toplayabiliriz.
+- **Cihaz üzerinde analitik:** Aura ayrıca uygulama olaylarının cihaz üzerinde yerel bir günlüğünü tutar. Bu günlük cihazınızdan asla ayrılmaz ve yalnızca uygulama içi özellikleri desteklemek için kullanılır.
+
+### Konum Verileri
+
+- Aura, yalnızca izin verirseniz **kullanım sırasındaki yaklaşık** konumunuzu toplar ve bunu yalnızca "Mood" temasını yerel hava durumunuza göre ayarlamak için kullanır. Konumunuz, güncel hava koşullarını almak üzere Apple'ın WeatherKit hizmetine gönderilir. Konumunuzu saklamayız ve bu hava durumu sorgusu dışında Apple'dan başka kimseyle paylaşmayız. Konum erişimini reddederseniz uygulama normal şekilde çalışmaya devam eder.
+
+### Reklamcılık
+
+- Aura, Google AdMob aracılığıyla reklam gösterebilir. Reklam sunmak için AdMob, cihazınızın reklam kimliğine ve cihaz bilgilerine erişebilir. Herhangi bir kişiselleştirilmiş reklam takibinden önce, Aura Apple'ın Uygulama Takip Şeffaflığı istemini gösterir; takibi reddedip uygulamayı kullanmaya devam edebilirsiniz.
+
+### Toplamadığımız Bilgiler
+
+- Uygulamayı kullanmak için hesap oluşturmanızı gerektirmeyiz.
+- Adınızı, e-postanızı, telefon numaranızı veya kişilerinizi toplamayız.
+- Kişisel bilgilerinizi satmayız.
+
+---
+
+## 2. Bilgilerinizi Nasıl Kullanıyoruz
+
+Topladığımız bilgileri şu amaçlarla kullanırız:
+
+- Aura'nın temel işlevlerini sağlamak ve sürdürmek (arama, çalma, kitaplık, radyo, şarkı sözleri ve isteğe bağlı Drive akışı)
+- Mood temasını desteklemek için yerel hava durumunu almak
+- Reklamları göstermek ve sıklığını sınırlamak
+- Uygulamayı geliştirmek için toplu kullanım kalıplarını anlamak
+- Çökmeleri tanılamak ve hataları düzeltmek
+
+Bilgilerinizi şu amaçlarla KULLANMAYIZ:
+
+- Verilerinizi üçüncü taraflara satmak
+- Rızanız olmadan uygulamalar arası reklam profilleri oluşturmak
+- Sizi önemli ölçüde etkileyen otomatik kararlar almak
+
+---
+
+## 3. Bilgilerinizi Nasıl Paylaşıyoruz
+
+Kişisel bilgilerinizi satmayız, kiralamayız veya takas etmeyiz.
+
+Bilgileri yalnızca şu sınırlı durumlarda paylaşırız:
+
+- **Hizmet sağlayıcılar:** Aura'yı çalıştırmak için Bölüm 4'te listelenen üçüncü taraf hizmetleri kullanırız. Her biri yalnızca işlevini yerine getirmek için gerekli verileri alır.
+- **Yasal gereklilikler:** Kanun, yönetmelik, yasal süreç veya geçerli bir devlet talebi gerektiriyorsa bilgi açıklayabiliriz.
+- **Güvenlik:** Kullanıcılarımızın, kamunun veya kendimizin haklarını, mülkiyetini veya güvenliğini korumak için bilgi açıklayabiliriz.
+
+---
+
+## 4. Üçüncü Taraf Hizmetleri
+
+Aura aşağıdaki üçüncü taraf hizmetlerine dayanır. Bunlardan biri tarafından desteklenen bir özelliği kullandığınızda, gerekli veriler (bir arama sorgusu, bir reklam isteği veya bir hava durumu konum sorgusu gibi) o sağlayıcıya kendi gizlilik politikası kapsamında gönderilir:
+
+| Hizmet | Amaç | Gizlilik Politikası |
+|---------|---------|----------------|
+| Google AdMob | Reklamcılık | https://policies.google.com/privacy |
+| Google Firebase Analytics | Kullanım ve çökme analitiği (etkinleştirildiğinde) | https://policies.google.com/privacy |
+| Google Sign-In / Google Drive API | Kendi Drive ses dosyalarınıza isteğe bağlı erişim | https://policies.google.com/privacy |
+| Çeşitli Hizmetler | Müzik arama ve akış | https://policies.google.com/privacy |
+| Apple WeatherKit | Mood teması için yerel hava durumu | https://www.apple.com/legal/privacy/ |
+| Radio-Browser / internet radyo istasyonları | Canlı radyo dizini ve akış | https://www.radio-browser.info/ |
+
+İnternet radyosu ve müzik akışları doğrudan üçüncü taraf sunucularından sunulur; bu sağlayıcılar, akışı sunmanın bir parçası olarak kendi politikalarına tabi olarak standart istek bilgilerini (IP adresi gibi) günlüğe kaydedebilir.
+
+---
+
+## 5. Veri Saklama
+
+- **Cihaz üzerindeki veriler** (kitaplık, geçmiş, favoriler, indirmeler, cihaz üzerindeki analitik günlüğü): Uygulama içinden silene veya Aura'yı kaldırana kadar cihazınızda saklanır.
+- **Firebase ile paylaşılan analitik ve çökme verileri:** Google'ın Firebase veri saklama ayarlarına göre saklanır, ardından silinir veya anonimleştirilir.
+- **Reklam verileri:** Google'ın politikalarına göre Google AdMob tarafından yönetilir.
+
+Aura'yı kaldırmak, cihazınızda yerel olarak saklanan tüm verileri kaldırır.
+
+---
+
+## 6. Veri Güvenliği
+
+Bilgilerinizi korumak için makul teknik önlemler uygularız, bunlar arasında şunlar bulunur:
+
+- Uygulama hizmet trafiği için aktarım sırasında şifreleme (TLS/HTTPS)
+- Kitaplığınızın ve tercihlerinizin cihaz üzerinde saklanması
+- Yalnızca uygulamanın ihtiyaç duyduğu izinlerin ve üçüncü taraf erişiminin istenmesi
+
+Not: Bazı internet radyo akışları yalnızca düz HTTP üzerinden kullanılabilir; istasyonlar HTTPS sunmadığı için bu belirli medya akışları aktarım sırasında şifrelenmez. Tüm uygulama hizmeti ve API trafiği HTTPS kullanır.
+
+Hiçbir iletim veya depolama yöntemi %100 güvenli değildir, ancak verilerinizi korumak için ticari olarak makul adımlar atarız.
+
+---
+
+## 7. Haklarınız
+
+Aura kullanıcı hesapları tutmadığından, verilerinizin çoğu cihazınızda doğrudan sizin kontrolünüzdedir — geçmişinizi, favorilerinizi, indirmelerinizi, önbelleğe alınmış akışlarınızı ve cihaz üzerindeki analitik günlüğünü uygulama içinden istediğiniz zaman silebilir, Google Drive bağlantısını istediğiniz zaman kesebilirsiniz.
+
+Soru sormak veya gizlilikle ilgili bir talepte bulunmak için kocakmstf@gmail.com adresinden bize ulaşın. 30 gün içinde yanıt vereceğiz.
+
+### Avrupa Birliği Sakinleri İçin (GDPR)
+
+Avrupa Ekonomik Alanı'nda iseniz, GDPR kapsamında haklarınız vardır:
+
+- **Veri sorumlusu:** Aura Music, bilgisiz1mail@gmail.com
+- **İşlemenin yasal dayanağı:**
+  - Rızanız (analitik, konum, kişiselleştirilmiş reklam takibi — her birini reddedebilir veya geri çekebilirsiniz)
+  - Sözleşmenin ifası (talep ettiğiniz özellikleri sağlamak)
+  - Meşru menfaatler (uygulama kararlılığı, güvenliği ve iyileştirmesi)
+- **Haklarınız:** erişim, düzeltme, silme, işlemenin kısıtlanması, işlemeye itiraz ve veri taşınabilirliği.
+- **Şikayetler:** Yerel Veri Koruma Otoritenize şikayette bulunabilirsiniz.
+- **Uluslararası aktarımlar:** Üçüncü taraf sağlayıcılar (ör. Google, Apple) verileri, Standart Sözleşme Maddeleri gibi uygun güvenceler altında AEA dışında işleyebilir.
+
+### Kaliforniya Sakinleri İçin (CCPA)
+
+Kaliforniya sakiniyseniz, CCPA kapsamında haklarınız vardır:
+
+- **Bilme hakkı:** hakkınızda toplanan kişisel bilgi kategorilerini ve belirli parçalarını talep etme.
+- **Silme hakkı:** kişisel bilgilerinizin silinmesini talep etme.
+- **Vazgeçme hakkı:** Kişisel bilgilerinizi satmıyoruz. Uygulama Takip Şeffaflığı istemi aracılığıyla reklam takibini reddedebilirsiniz.
+- **Ayrımcılık yapılmaması:** Haklarınızı kullandığınız için size ayrımcılık yapmayacağız.
+
+Bu hakları kullanmak için bilgisiz1mail@gmail.com adresinden bize ulaşın.
+
+---
+
+## 8. Çocukların Gizliliği
+
+Aura, 13 yaşından küçük çocuklara yönelik değildir. 13 yaşından küçük çocuklardan bilerek kişisel bilgi toplamayız. Bir çocuğun bize kişisel bilgi sağladığını düşünüyorsanız, bilgisiz1mail@gmail.com adresinden bize ulaşın; bu bilgiyi derhal sileriz.
+
+---
+
+## 9. Bu Gizlilik Politikasındaki Değişiklikler
+
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikler yaptığımızda, yukarıdaki "Son Güncelleme" tarihini güncelleyecek ve güncellenmiş politikayı yayınlayacağız. Değişiklikler yayınlandıktan sonra Aura'yı kullanmaya devam etmeniz, güncellenmiş politikayı kabul ettiğiniz anlamına gelir.
+
+---
+
+## 10. Bize Ulaşın
+
+Bu Gizlilik Politikası veya veri uygulamalarımız hakkında sorularınız veya endişeleriniz varsa, bize şu adresten ulaşın:
+
+- **E-posta:** bilgisiz1mail@gmail.com
+- **Geliştirici:** Aura Music
