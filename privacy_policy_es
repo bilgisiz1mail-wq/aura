@@ -1,0 +1,162 @@
+# Política de privacidad de Aura
+
+**Fecha de entrada en vigor:** 10 de julio de 2026
+**Última actualización:** 10 de julio de 2026
+
+Aura Music ("nosotros" o "nuestro") creó Aura como una aplicación de música gratuita. Esta Política de privacidad explica cómo recopilamos, usamos y protegemos su información cuando usa Aura.
+
+Al usar Aura, usted acepta las prácticas descritas en esta Política de privacidad. Si no está de acuerdo, no utilice la aplicación.
+
+Aura no requiere una cuenta y no solicita su nombre, dirección de correo electrónico u otra información de identificación directa. La mayoría de sus datos —su biblioteca, historial de reproducción, favoritos y descargas— permanecen en su dispositivo.
+
+---
+
+## 1. Información que recopilamos
+
+### Información que usted proporciona directamente
+
+- **Consultas de búsqueda:** cuando busca música, emisoras de radio o letras, su consulta se envía al servicio correspondiente (ver sección 4) para devolver resultados.
+
+### Información recopilada automáticamente
+
+- **Datos de uso:** con el análisis habilitado, recopilamos datos de uso anónimos, como qué pantallas abre, qué búsquedas realiza y qué fuentes de reproducción utiliza. Estos datos no están vinculados a su identidad.
+- **Información del dispositivo y diagnóstico:** podemos recopilar el modelo del dispositivo, la versión del sistema operativo, la versión de la aplicación y los registros de fallos/diagnóstico para corregir errores y mejorar la estabilidad.
+- **Análisis en el dispositivo:** Aura también mantiene un registro local, en el dispositivo, de los eventos de la aplicación. Este registro nunca sale de su dispositivo y se usa únicamente para funciones dentro de la aplicación.
+
+### Datos de ubicación
+
+- Aura recopila su ubicación **aproximada mientras está en uso** solo si concede permiso, y la utiliza únicamente para ajustar el tema "Mood" según el clima local. Su ubicación se envía al servicio WeatherKit de Apple para obtener las condiciones actuales. No almacenamos su ubicación ni la compartimos con nadie más que Apple para esta consulta meteorológica. La aplicación funciona con normalidad si rechaza el acceso a la ubicación.
+
+### Publicidad
+
+- Aura puede mostrar anuncios a través de Google AdMob. Para mostrar anuncios, AdMob puede acceder al identificador publicitario de su dispositivo y a información del dispositivo. Antes de cualquier seguimiento publicitario personalizado, Aura muestra el aviso de App Tracking Transparency de Apple; usted puede rechazar el seguimiento y seguir utilizando la aplicación.
+
+### Información que NO recopilamos
+
+- No requerimos la creación de una cuenta para usar la aplicación.
+- No recopilamos su nombre, correo electrónico, número de teléfono ni contactos.
+- No vendemos su información personal.
+
+---
+
+## 2. Cómo usamos su información
+
+Utilizamos la información que recopilamos para:
+
+- proporcionar y mantener las funciones principales de Aura (búsqueda, reproducción, biblioteca, radio, letras y transmisión opcional de Drive)
+- obtener el clima local para el tema Mood
+- mostrar anuncios y limitar su frecuencia
+- comprender patrones de uso agregados para mejorar la aplicación
+- diagnosticar fallos y corregir errores
+
+NO utilizamos su información para:
+
+- vender sus datos a terceros
+- crear perfiles publicitarios entre aplicaciones sin su consentimiento
+- tomar decisiones automatizadas que le afecten significativamente
+
+---
+
+## 3. Cómo compartimos su información
+
+No vendemos, alquilamos ni comerciamos con su información personal.
+
+Compartimos información solo en estas circunstancias limitadas:
+
+- **Proveedores de servicios:** utilizamos los servicios de terceros indicados en la sección 4 para operar Aura. Cada uno recibe solo los datos necesarios para cumplir su función.
+- **Requisitos legales:** podemos divulgar información si lo exige la ley, una normativa, un proceso judicial o una solicitud gubernamental válida.
+- **Seguridad:** podemos divulgar información para proteger los derechos, la propiedad o la seguridad de nuestros usuarios, del público o de nosotros mismos.
+
+---
+
+## 4. Servicios de terceros
+
+Aura depende de los siguientes servicios de terceros. Cuando usa una función impulsada por uno de ellos, los datos necesarios (como una consulta de búsqueda, una solicitud de anuncio o una consulta de ubicación meteorológica) se envían a ese proveedor según su propia política de privacidad:
+
+| Servicio | Propósito | Política de privacidad |
+|---------|---------|----------------|
+| Google AdMob | Publicidad | https://policies.google.com/privacy |
+| Google Firebase Analytics | Análisis de uso y fallos (si está habilitado) | https://policies.google.com/privacy |
+| Google Sign-In / Google Drive API | Acceso opcional a su propio audio de Drive | https://policies.google.com/privacy |
+| Servicios varios | Búsqueda y transmisión de música | https://policies.google.com/privacy |
+| Apple WeatherKit | Clima local para el tema Mood | https://www.apple.com/legal/privacy/ |
+| Radio-Browser / emisoras de radio por internet | Directorio de radio en vivo y transmisión | https://www.radio-browser.info/ |
+
+Las transmisiones de radio y música por internet se entregan directamente desde servidores de terceros; esos proveedores pueden registrar información estándar de la solicitud (como la dirección IP) como parte de la entrega de la transmisión, sujeto a sus propias políticas.
+
+---
+
+## 5. Retención de datos
+
+- **Datos en el dispositivo** (biblioteca, historial, favoritos, descargas, registro de análisis en el dispositivo): se conservan en su dispositivo hasta que los elimine en la aplicación o desinstale Aura.
+- **Datos de análisis y fallos** compartidos con Firebase: se conservan según la configuración de retención de datos de Firebase de Google, y luego se eliminan o anonimizan.
+- **Datos publicitarios:** gestionados por Google AdMob según las políticas de Google.
+
+Desinstalar Aura elimina todos los datos almacenados localmente en su dispositivo.
+
+---
+
+## 6. Seguridad de los datos
+
+Implementamos medidas técnicas razonables para proteger su información, entre ellas:
+
+- cifrado en tránsito (TLS/HTTPS) para el tráfico de servicios de la aplicación
+- almacenamiento en el dispositivo de su biblioteca y preferencias
+- solicitar solo los permisos y accesos de terceros que la aplicación necesita
+
+Nota: algunas transmisiones de radio por internet solo están disponibles por HTTP simple; esas transmisiones de medios específicas no están cifradas en tránsito porque las emisoras no ofrecen HTTPS. Todo el tráfico de servicios y API de la aplicación utiliza HTTPS.
+
+Ningún método de transmisión o almacenamiento es 100% seguro, pero tomamos medidas comercialmente razonables para proteger sus datos.
+
+---
+
+## 7. Sus derechos
+
+Dado que Aura no mantiene cuentas de usuario, la mayoría de sus datos están bajo su control directo en su dispositivo: puede eliminar su historial, favoritos, descargas, transmisiones en caché y el registro de análisis en el dispositivo desde la aplicación en cualquier momento, y puede desconectar Google Drive en cualquier momento.
+
+Para hacer preguntas o una solicitud relacionada con la privacidad, contáctenos en kocakmstf@gmail.com. Responderemos dentro de 30 días.
+
+### Para residentes de la Unión Europea (RGPD)
+
+Si se encuentra en el Espacio Económico Europeo, tiene derechos conforme al RGPD:
+
+- **Responsable del tratamiento de datos:** Aura Music, bilgisiz1mail@gmail.com
+- **Base legal del tratamiento:**
+  - Su consentimiento (análisis, ubicación, seguimiento publicitario personalizado, cada uno de los cuales puede rechazar o retirar)
+  - Ejecución de un contrato (proporcionar las funciones que solicita)
+  - Intereses legítimos (estabilidad, seguridad y mejora de la aplicación)
+- **Sus derechos:** acceso, rectificación, supresión, limitación del tratamiento, oposición al tratamiento y portabilidad de datos.
+- **Reclamaciones:** puede presentar una reclamación ante su autoridad local de protección de datos.
+- **Transferencias internacionales:** los proveedores de terceros (p. ej., Google, Apple) pueden procesar datos fuera del EEE con garantías adecuadas, como las cláusulas contractuales tipo.
+
+### Para residentes de California (CCPA)
+
+Si es residente de California, tiene derechos conforme a la CCPA:
+
+- **Derecho a saber:** solicitar las categorías y elementos específicos de información personal recopilada sobre usted.
+- **Derecho a eliminar:** solicitar la eliminación de su información personal.
+- **Derecho a excluirse:** no vendemos su información personal. Puede rechazar el seguimiento publicitario a través del aviso de App Tracking Transparency.
+- **No discriminación:** no lo discriminaremos por ejercer sus derechos.
+
+Para ejercer estos derechos, contáctenos en bilgisiz1mail@gmail.com.
+
+---
+
+## 8. Privacidad de los menores
+
+Aura no está destinado a menores de 13 años. No recopilamos a sabiendas información personal de menores de 13 años. Si cree que un menor nos ha proporcionado información personal, contáctenos en bilgisiz1mail@gmail.com y la eliminaremos de inmediato.
+
+---
+
+## 9. Cambios a esta Política de privacidad
+
+Podemos actualizar esta Política de privacidad de vez en cuando. Cuando realicemos cambios significativos, actualizaremos la fecha de "Última actualización" indicada arriba y publicaremos la política actualizada. El uso continuado de Aura después de la publicación de los cambios constituye la aceptación de la política actualizada.
+
+---
+
+## 10. Contáctenos
+
+Si tiene preguntas o inquietudes sobre esta Política de privacidad o nuestras prácticas de datos, contáctenos en:
+
+- **Correo electrónico:** bilgisiz1mail@gmail.com
+- **Desarrollador:** Aura Music
