@@ -3,6 +3,6 @@
   "moreStreamServices": {
     "visible": false,
     "default": false,
-    "versions": { "1.0.0": true }
+    "versions": { "1.0.0": false }
   }
 }
